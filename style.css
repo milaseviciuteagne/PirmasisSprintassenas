@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box; }
+
+
+    
+     /* .loginUsername{
+        background-color: rgb(42, 119, 68);
+    } */
+
+
+    /* .loginPasword{
+
+        background-color: rgb(163, 196, 174); 
+    } */
+    body{
+        background-color: rgb(131, 202, 156); 
+    }
+h2{
+    color: brown;
+}
+.loginAll{
+    margin: auto;
+    text-align: center;
+}
+.login{
+    padding: 5px;
+}
+label {
+    color: brown;
+}
+.loginSubmit{
+    color:brown;
+}
